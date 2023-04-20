@@ -1,2 +1,2 @@
 # SMP_Exercises
-This repository includes all exercises with solutions to class and book exercises
+This repository includes all exercises with solutions from class and book exercises
